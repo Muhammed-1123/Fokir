@@ -104,7 +104,7 @@ ul {
 
 .text-animation span::after {
     content: "Developer";
-    margin-left: 2px;
+    margin-left: 4px;
     position: absolute;
     color: #FF305B;
     overflow: hidden;
